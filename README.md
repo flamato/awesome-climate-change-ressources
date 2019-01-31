@@ -1,2 +1,2 @@
-#Energy production
+# Energy production
 * [electricityMap.org](http://electricitymap.org)
