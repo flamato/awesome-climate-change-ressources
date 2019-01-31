@@ -1,6 +1,6 @@
 ### What is climate change?
-* [Climate Science Basics by 350](https://350.org/science/)
-* [A pragmatic guide to Climate Change by Tomorrow](https://www.tmrow.com/climatechange.html)
+* [350 - Climate Science Basics](https://350.org/science/)
+* [Tomorrow - A pragmatic guide to Climate Change](https://www.tmrow.com/climatechange.html)
 
 ### Energy
 **Global**
