@@ -1,4 +1,4 @@
-# Energy production
+### Energy production
 **Global**
 * [electricityMap.org](http://electricitymap.org)
 
