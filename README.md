@@ -1,6 +1,6 @@
 # Energy production
-## Global
+**Global**
 * [electricityMap.org](http://electricitymap.org)
 
-## Danish
+**Danish**
 * [Energistyrrelsen](https://ens.dk/service/statistik-data-noegletal-og-kort)
