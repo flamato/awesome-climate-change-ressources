@@ -36,6 +36,8 @@
 
 ## 🚗 Transport 
 
+- [Flight Emission Map](http://flightemissionmap.org) - Calculate the CO2 emissions in kg for a return flight between any two cities in the world
+
 ## ♻ Materials 
 
 ## 🔮 Emerging Solutions
