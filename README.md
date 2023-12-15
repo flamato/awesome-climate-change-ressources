@@ -17,7 +17,10 @@
 - [The Gold Standard](https://www.goldstandard.org) manages best practice standards for climate and sustainable development interventions to maximise impact.
 - [Project Drawdown](https://www.drawdown.org/solutions) maps out causes and 100 solutions to global warming. The structure of this list is inspired by Project Drawdown. [[TED Talk](https://www.ted.com/talks/chad_frischmann_100_solutions_to_climate_change#t-1009931)]
 
-
+## 🏢 Companies 
+- [SBTI API](https://ditchcarbon.com/free-sbti-api-access/) - Free API access to all companies signed up to SBTI, Science Based Targets Initiative
+- [DitchCarbon](https://docs.ditchcarbon.com/) - Access to the DitchCarbon dataset which contains scores, emissions and reccomended actions for any company, based on emissions disclosures where available.
+- 
 ## 🔌 Energy 
 - [ElectricityMap.org](http://electricitymap.org)
 
